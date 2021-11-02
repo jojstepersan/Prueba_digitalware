@@ -1,0 +1,38 @@
+<h2 class="content-block">Bodega</h2>
+
+<dx-data-grid
+  id="gridContainer"
+  [dataSource]="dataSource"
+  [showBorders]="true"
+  (onRowInserting)="onInsertRow($event)"
+>
+  <dxo-scrolling mode="virtual"></dxo-scrolling>
+  <dxo-editing
+    mode="cell"
+    [allowAdding]="true"
+    [allowUpdating]="true"
+    [allowDeleting]="true"
+  >
+  </dxo-editing>
+  <dxi-column
+    dataField="producto.productoId"
+    caption="Codigo"
+    [allowEditing]="false"
+    [alignment]="'center'"
+  >
+  </dxi-column>
+  <dxi-column dataField="producto.nombre" caption="Producto"> </dxi-column>
+  <dxi-column
+    dataField="producto.precio"
+    caption="Precio"
+    [alignment]="'center'"
+  >
+  </dxi-column>
+  <dxi-column
+    dataField="cantidadExistente"
+    caption="Disponible"
+    [alignment]="'center'"
+  >
+  </dxi-column>
+
+</dx-data-grid>

@@ -1,0 +1,12 @@
+C:\Users\Jojstepersan\Documents\Prueba_digital_ware\InventarioData\bin\Debug\netcoreapp3.1\InventarioData.deps.json
+C:\Users\Jojstepersan\Documents\Prueba_digital_ware\InventarioData\bin\Debug\netcoreapp3.1\InventarioData.runtimeconfig.json
+C:\Users\Jojstepersan\Documents\Prueba_digital_ware\InventarioData\bin\Debug\netcoreapp3.1\InventarioData.runtimeconfig.dev.json
+C:\Users\Jojstepersan\Documents\Prueba_digital_ware\InventarioData\bin\Debug\netcoreapp3.1\InventarioData.dll
+C:\Users\Jojstepersan\Documents\Prueba_digital_ware\InventarioData\bin\Debug\netcoreapp3.1\InventarioData.pdb
+C:\Users\Jojstepersan\Documents\Prueba_digital_ware\InventarioData\obj\Debug\netcoreapp3.1\InventarioData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jojstepersan\Documents\Prueba_digital_ware\InventarioData\obj\Debug\netcoreapp3.1\InventarioData.AssemblyInfoInputs.cache
+C:\Users\Jojstepersan\Documents\Prueba_digital_ware\InventarioData\obj\Debug\netcoreapp3.1\InventarioData.AssemblyInfo.cs
+C:\Users\Jojstepersan\Documents\Prueba_digital_ware\InventarioData\obj\Debug\netcoreapp3.1\InventarioData.csproj.CoreCompileInputs.cache
+C:\Users\Jojstepersan\Documents\Prueba_digital_ware\InventarioData\obj\Debug\netcoreapp3.1\InventarioData.dll
+C:\Users\Jojstepersan\Documents\Prueba_digital_ware\InventarioData\obj\Debug\netcoreapp3.1\InventarioData.pdb
+C:\Users\Jojstepersan\Documents\Prueba_digital_ware\InventarioData\obj\Debug\netcoreapp3.1\InventarioData.genruntimeconfig.cache
